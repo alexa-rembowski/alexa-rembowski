@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá, sou a Alexa Rembowski
+Tenho 17 anos e atualmente estou desenvolvendo o estudo na área da programação através do SENAI com parceria da Petrobras.
 
-<!--
-**alexa-rembowski/alexa-rembowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Formação & Estudos Atuais
+* 🏫 **Ensino Médio inconcluído - 3° ano** – Escola Marechal Rondon (Canoas/RS).
+* 💻 **Desenvolvimento Full Stack** – Curso pelo SENAI / Petrobras (Cursando no Período Noturno).
 
-Here are some ideas to get you started:
+## 📫 Contatos:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+   <a href="https://www.instagram.com/vieirsxz_a" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
