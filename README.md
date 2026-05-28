@@ -2,7 +2,7 @@
 Tenho 17 anos e atualmente estou desenvolvendo o estudo na área da programação através do SENAI com parceria da Petrobras.
 
 ## 🎓 Formação & Estudos Atuais
-* 🏫 **Ensino Médio inconcluído - 3° ano** – Escola Marechal Rondon (Canoas/RS).
+* 🏫 **Ensino Médio - Em andamento - 3° ano** – Escola Marechal Rondon (Canoas/RS).
 * 💻 **Desenvolvimento Full Stack** – Curso pelo SENAI / Petrobras (Cursando no Período Noturno).
 
 ## 📫 Contatos:
